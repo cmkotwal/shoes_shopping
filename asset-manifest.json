@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shoes_shopping/static/css/main.4ecbd5e7.chunk.css",
+    "main.js": "/shoes_shopping/static/js/main.c88fd7c9.chunk.js",
+    "main.js.map": "/shoes_shopping/static/js/main.c88fd7c9.chunk.js.map",
+    "runtime-main.js": "/shoes_shopping/static/js/runtime-main.e9c2adfd.js",
+    "runtime-main.js.map": "/shoes_shopping/static/js/runtime-main.e9c2adfd.js.map",
+    "static/js/2.736ddffb.chunk.js": "/shoes_shopping/static/js/2.736ddffb.chunk.js",
+    "static/js/2.736ddffb.chunk.js.map": "/shoes_shopping/static/js/2.736ddffb.chunk.js.map",
+    "index.html": "/shoes_shopping/index.html",
+    "precache-manifest.32126dcd0b096d4389144291977f585d.js": "/shoes_shopping/precache-manifest.32126dcd0b096d4389144291977f585d.js",
+    "service-worker.js": "/shoes_shopping/service-worker.js",
+    "static/css/main.4ecbd5e7.chunk.css.map": "/shoes_shopping/static/css/main.4ecbd5e7.chunk.css.map",
+    "static/js/2.736ddffb.chunk.js.LICENSE.txt": "/shoes_shopping/static/js/2.736ddffb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9c2adfd.js",
+    "static/js/2.736ddffb.chunk.js",
+    "static/css/main.4ecbd5e7.chunk.css",
+    "static/js/main.c88fd7c9.chunk.js"
+  ]
+}
